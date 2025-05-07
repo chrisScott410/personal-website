@@ -1,0 +1,26 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.about-header {
+  font-size: 2rem;
+}
+
+.about-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.details {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
